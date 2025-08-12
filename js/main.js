@@ -96,3 +96,31 @@
     
 })(jQuery);
 
+   const quotes = [
+    "Power your home, power the planet — with the sun.",
+    "Clean energy today for a brighter tomorrow.",
+    "Switch to solar and let the sun pay your bills.",
+    "Your future is bright — make it solar powered.",
+    "Harvest the sun, save the earth.",
+    "Solar: where sustainability meets savings.",
+    "Shine brighter, live greener.",
+    "Go solar, because the planet deserves better.",
+    "Energy independence starts with the sun.",
+    "The best investment under the sun — solar energy."
+   ];
+
+   const btn = document.getElementById("quoteBtn");
+   const quoteText = document.getElementById("quoteText");
+
+   btn.addEventListener("click", function(event) {
+     event.preventDefault();
+
+    // Pick a random quote
+   const randomIndex = Math.floor(Math.random() * quotes.length);
+   quoteText.textContent = quotes[randomIndex];
+
+    // Show the modal
+    const quoteModal = new bootstrap.Modal(document.getElementById('quoteModal'));
+    quoteModal.show();
+  });
+
