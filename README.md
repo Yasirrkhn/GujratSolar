@@ -1,6 +1,6 @@
 # ☀️ Gujrat Solar – Official Website
 
-📌 Project Overview
+## 📌 Project Overview
 
 Gujrat Solar
  is a modern, responsive website built for a solar energy business based in Gujarat, India. The goal of this project was to create a professional online presence that:
@@ -13,7 +13,7 @@ Increases inquiries and lead generation
 
 Educates users about renewable energy solutions
 
-🚀 Features
+## 🚀 Features
 
 🌐 Fully responsive design (mobile, tablet, desktop)
 
@@ -27,7 +27,7 @@ Educates users about renewable energy solutions
 
 🔒 SEO optimized for higher visibility
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript
 
@@ -39,7 +39,7 @@ Hosting: Hostinger
 
 Domain: gujratsolar.com
 
-📊 Impact & Results
+## 📊 Impact & Results
 
 ⬆️ Increased online visibility in the Gujarat region
 
@@ -47,7 +47,7 @@ Domain: gujratsolar.com
 
 🔗 Generated business inquiries directly via the website
 
-👨‍💻 My Role
+## 👨‍💻 My Role
 
 Designed & developed the website end-to-end
 
@@ -57,6 +57,6 @@ Optimized for performance, SEO, and user experience
 
 Deployed and managed hosting + domain setup
 
-🔗 Live Website
+## 🔗 Live Website
 
 👉 Visit Gujrat Solar
