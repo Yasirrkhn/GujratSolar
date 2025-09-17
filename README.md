@@ -1,5 +1,5 @@
 # ☀️ Gujrat Solar – Official Website
-<br>
+
 ## 📌 Project Overview
 
 Gujrat Solar
