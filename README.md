@@ -69,4 +69,4 @@ Deployed and managed hosting + domain setup
 
 ## 🔗 Live Website
 
-👉 [Visit Gujrat Solar](gujratsolar.com)
+👉 [Visit Gujrat Solar](https://gujratsolar.com/)
